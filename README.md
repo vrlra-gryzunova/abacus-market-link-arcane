@@ -76,3 +76,5 @@ The correct **Abacus Market link** is your portal to a secure trading experience
 
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/graphics/task.webp" alt="Abacus Login" style="max-width: 100%;"></a>
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/graphics/margin.webp" alt="Abacus Register" style="max-width: 100%;"></a>
+
+Update:  04 August 2025 url is live and clickable
